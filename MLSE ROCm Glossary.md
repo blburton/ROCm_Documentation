@@ -57,7 +57,7 @@
 |**_GitHub_**|An open-source community for code hosting and collaboration.
 |**_GPU (Graphics Processing Unit)_**|A specialized processor dedicated for output graphics display.
 |**_GRUB_**|A multiboot boot loader.
-|**_hardware_**|Physical machines.
+|**_hardware_**|Physical machines
 |**_HCC (Heterogeneous Compute Compiler) (Deprecated)_**|An Open Source, Optimizing C++ Compiler for Heterogeneous Compute. It supports heterogeneous offload to AMD APUs and discrete GPUs via HSA enabled runtimes and drivers. It is based on Clang, the LLVM Compiler Infrastructure and the 'libc++' C++ standard library. The goal is to implement a compiler that takes a program that conforms to a parallel programming standard such as C++ AMP, HC, C++ 17 ParallelSTL, or OpenMP, and transforms it into the AMD GCN ISA.
 |**_hidden layer_**|The layer between input layers and output layers. Artificial neurons intake inputs and produce an output.
 |**_HIP (Heterogeneous Interface for Portability)_**|Heterogeneous Interface for Portability is a C++ runtime API and kernel language that allows developers to create portable applications that can run on AMD and other GPU's. It provides a C-style API and a C++ kernel language. The first big feature available in the HIP is porting apps that use the CUDA Driver API.
@@ -67,13 +67,13 @@
 |**_hipSetDevice_**|A set default device for hip API calls.
 |**_host, host cpu_**|Executes the HIP runtime API and is capable of initiating kernel launches to one or more devices.
 |**_HPC (High Performance Computing)_**|The ability to perform and process data at high speeds.
-|**_HSA (Heterogeneous System Architecture)_**|HSA provides a unified view of fundamental computing elements. HSA allows a programmer to write applications that seamlessly integrate CPUs (called latency compute units) with GPUs (called throughput compute units), while benefiting from the best attributes of each. HSA creates an improved processor design that exposes the benefits and capabilities of mainstream programmable compute elements, working together seamlessly. HSA is all about delivering new, improved user experiences through advances in computing architectures that deliver improvements across all four key vectors: improved power efficiency; improved performance; improved programmability; and broad portability across computing devices. For more on HSA.(http://developer.amd.com/wordpress/media/2012/10/hsa10.pdf)
+|**_HSA (Heterogeneous System Architecture)_**|HSA provides a unified view of fundamental computing elements. HSA allows a programmer to write applications that seamlessly integrate CPUs (called latency compute units) with GPUs (called throughput compute units), while benefiting from the best attributes of each. HSA creates an improved processor design that exposes the benefits and capabilities of mainstream programmable compute elements, working together seamlessly. HSA is all about delivering new, improved user experiences through advances in computing architectures that deliver improvements across all four key vectors: improved power efficiency; improved performance; improved programmability; and broad portability across computing devices. <br>For more on HSA: (http://developer.amd.com/wordpress/media/2012/10/hsa10.pdf)</br>
 |**_HTC (High Throughput Computing)_**|Allows system to run multiple software across multiple processors and the same time. Refers to the computing over long periods of time.
 |**_hyperparameter_**|Values that control learning process using learning algorithm.
 |**_image recognition_**|The systems or software ability to identify objects or details in an image.
-|*_imbalanced dataset_**|Datasets where the target class is unequally distributed.
+|**_imbalanced dataset_**|Datasets where the target class is unequally distributed.
 |**_inference_**|Running live data points into a machine learning algorithm.
-|**_Java, JavaScript, JScript_**|An object-oriented programming language.
+|**_Java, JavaScript, JScript_**| An object-oriented programming language.
 |**_Jira_**|A bug tracking and agile project management software.
 |**Keras**|An open-source library that acts as an interface for TensorFlow library.
 |**_Kernel_**|Program working within the operating system that controls the system. Facilitates interactions between hardware and software.
@@ -144,13 +144,13 @@
 |**_rocFFT_**|An implementation of Fast Fourier Transform (FFT) written in HIP for GPUs.
 |**_rocGDB_**|ROCm source-level debugger for Linux.
 |**_ROC (receiver operating characteristic) Curve_**|A curve of true positive rate vs. false positive rate at different classification thresholds.
-|**_ROCm_**| ROCm is a brand name for ROCm™ open software platform (for software) or the ROCm™ open platform ecosystem (includes hardware like FPGAs or other CPU architectures.) **_NOTE_**: ROCm no longer functions as an acronym.
+|**_ROCm_**| ROCm is a brand name for ROCm™ open software platform (for software) or the ROCm™ open platform ecosystem (includes hardware like FPGAs or other CPU architectures.)  <br>**_NOTE_**: ROCm no longer functions as an acronym.</br>
 |**_ROCm SMI_**|ROCm System Management Interface, command line interface for manipulating and monitoring the amdgpu kernel.
 |**_ROCm Validation Suite_**|The ROCm Validation Suite (RVS) is a system administrator’s and cluster manager’s tool for detecting and troubleshooting common problems affecting AMD GPU(s) running in a high-performance computing environment, enabled using the ROCm software stack on a compatible platform.
 |**_rocProfiler_**|A command line tool used for API environment configurations. For profiling GPU compute applications.
 |**_rocSOLVER_**|An implementation of LAPACK routines on top of the AMD’s open source ROCm platform. rocSOLVER is implemented in the HIP programming language and optimized for AMD’s latest discrete GPUs.
 |**_rocSPARSE_**|Exposes a common interface that provides Basic Linear Algebra Subroutines for sparse computation implemented on top of AMD’s Radeon Open Compute ROCm runtime and toolchains. rocSPARSE is created using the HIP programming language and optimized for AMD’s latest discrete
-|**_ROCr ROCm runtime_**|The HSA runtime is a thin, user-mode API that exposes the necessary interfaces to access and interact with graphics hardware driven by the AMDGPU driver set and the ROCK kernel driver. Together they enable programmers to directly harness the power of AMD discrete graphics devices by allowing host applications to launch compute kernels directly to the graphics hardware. **Accelerator Modes Supported**: HC C++ API, HIP, C++ AMP, C++ Parallel STL, OpenMP
+|**_ROCr ROCm runtime_**|The HSA runtime is a thin, user-mode API that exposes the necessary interfaces to access and interact with graphics hardware driven by the AMDGPU driver set and the ROCK kernel driver. Together they enable programmers to directly harness the power of AMD discrete graphics devices by allowing host applications to launch compute kernels directly to the graphics hardware. <br> **Accelerator Modes Supported**: HC C++ API, HIP, C++ AMP, C++ Parallel STL, OpenMP</br>
 |**_ROCT-THUNK/ROC Runtime_**|A cmake-based system available for building thunk.
 |**_rocThrust_**|A parallel algorithm library, runs Thrust dependent software on AMD GPUs.
 |**_rocTracer_**|Runtime API calls and asynchronous GPU activity tracer.
@@ -191,3 +191,15 @@
 |**_validation_**|The use of a testing data set to evaluate a training model.
 |**_vanishing gradient_**|When useful gradient information is unable to be propagated from the output end of the model back to the layers near the input end of the model.
 |**_variable_**|Assigned within the function and carries data input throughout the function.     			 |
+
+## Reference Sources
+---
+
+|Source                          |                         |
+|--------|-----------------------------|
+|   **Microsoft** | https://docs.microsoft.com/en-us/security-updates/glossary/glossary       |
+|**RedHat**|  https://access.redhat.com/documentation/en-us/red_hat_satellite/6.2/html/architecture_guide/appe-red_hat_satellite-architecture_guide-glossary_of_terms|
+|**Google**| https://developers.google.com/machine-learning/glossary |  
+|**PyTorch**|https://pytorch.org/docs/stable/community/contribution_guide.html |
+|**Intel**|https://www.intel.com/content/www/us/en/support/topics/glossary.html |
+|**GSA's Digital.gov**| https://digital.gov/2015/08/03/18fs-style-guide-for-open-source-project-documentation/  |
