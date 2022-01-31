@@ -22,7 +22,7 @@
 |**_compute or computation_**|Traditionally: calculation  For technical use, compute can replace computation. Use of computer, mathematical calculations in relation to computers.|
 |**_Compute Units_**|Unit of measurement for processing resources for GPUs.|
 |**_command_**|An instruction to an application.|
-|**_condition_**|
+|**_conditionals_**|A sequence of program commands that evaluate to be either true or false. 
 |**_confusion matrix_**|Table used for the evaluation of algorithm performance. Compares actual and predicted values by machine learning model.|
 |**_convolution_**|An operation that interlaces two sources of data, utilized in image processing.|
 |**_convolutional layer_**| A layer that applies a convolution operation to the input.|
