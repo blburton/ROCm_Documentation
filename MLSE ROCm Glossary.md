@@ -203,3 +203,4 @@
 |**PyTorch**|https://pytorch.org/docs/stable/community/contribution_guide.html |
 |**Intel**|https://www.intel.com/content/www/us/en/support/topics/glossary.html |
 |**GSA's Digital.gov**| https://digital.gov/2015/08/03/18fs-style-guide-for-open-source-project-documentation/  |
+|**AMD Developer Central**| https://developer.amd.com/resources/rocm-learning-center/
