@@ -54,7 +54,7 @@
 |**_function (method)_**|The action of the API.
 |**_GAN_**|Generative Adversarial Networks, a generative model that creates new data instances that resemble training data.
 |**_Gigabyte_**|Unit symbol GB. Gigabyte or gig is a unit of byte for computer content. One billion bytes.
-|**_GitHub_**|An open-source community for code hosting and collaboration.
+|**_GitHub_**|An open source community for code hosting and collaboration.
 |**_GPU (Graphics Processing Unit)_**|A specialized processor dedicated for output graphics display.
 |**_GRUB_**|A multiboot boot loader.
 |**_hardware_**|Physical machines
@@ -107,12 +107,12 @@
 |**_OpenCL_**|Open Computing Language (OpenCL) is a framework for writing programs that execute across heterogeneous platforms consisting of central processing units (CPUs), graphics processing units (GPUs), digital signal processors (DSPs), field-programmable gate arrays (FPGAs) and other processors or hardware accelerators. OpenCL provides a standard interface for parallel computing using task- and data-based parallelism. The programming language that is used to write compute kernels is called OpenCL C and is based on C99,[16] but adapted to fit the device model in OpenCL. OpenCL consists of a set of headers and a shared object that is loaded at runtime. As of 2016 OpenCL runs on Graphics processing units, CPUs with SIMD instructions, FPGAs, Movidius Myriad 2, Adapteva epiphany and DSPs.
 |**_OpenMP_**|Programming model, supports offloading code and data onto GPU devices.
 |**_Open MPI_**|A Message Passing Interface (MPI) library project.
-|**_open-source_**|Software for which the source code is publicly accessible.
+|**_open source_**|Software for which the source code is publicly accessible.
 |**_optimizer_**|A program that utilizes linear programming to optimize processes.
 |**_outliers_**|Values that are abnormal.
 |**_overfitting_**|A model learns data to the extent that it negatively impact performance of the model on new data.
 |**_oversampling_**|Duplicate examples from minority class. Data analysis technique that adjusts the class distribution of a dataset.
-|**_Pandas_**|An open-source data analysis tool built on top of Python programing language.
+|**_Pandas_**|An open source data analysis tool built on top of Python programing language.
 |**_parameters_**|Displayed in parentheses when written in a function, parameters act as variables that assign value.
 |**_PCIe Platform Atomics_**|PCI Express (PCIe) was developed as the next generation I/O system interconnect after PCI, designed to enable advanced performance and features in connected devices while remaining compatible with the PCI software environment. Today, atomic transactions are supported for synchronization without using an interrupt mechanism. In emerging applications where math co-processing, visualization and content processing are required, enhanced synchronization would enable higher performance.
 |**_perceptron_**|A mathematical model of a biological neuron.
@@ -123,7 +123,7 @@
 |**_prediction bias_**|The difference between a model apparent and prediction error.
 |**_pre-training model_**|A model created based on already created and trained models.
 |**_probabilistic regression model_**|Predictions made on a dependent variable based on information
-|**_PyTorch_**|An open-source machine learning library used for Python.
+|**_PyTorch_**|An open source machine learning library used for Python.
 |**_queue_**|A Queue is a runtime-allocated resource that contains a packet buffer and is associated with a packet processor. The packet processor tracks which packets in the buffer have already been processed. When it has been informed by the application that a new packet has been enqueued, the packet processor is able to process it because the packet format is standard, and the packet contents are self-contained -- they include all the necessary information to run a command. A queue has an associated set of high-level operations defined in "HSA Runtime Specification" (API functions in host code) and "HSA Programmer Reference Manual Specification" (kernel code).
 |**_rank (Tensor)_**|A unit of dimensionality, the number of dimensions of the tensor within the TensorFlow system.
 |**_RCCL_**|A stand-alone library of standard collective communication routines for GPUs.
