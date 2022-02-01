@@ -99,7 +99,7 @@
 |**_nodes_**|A unit that has one or more weighted input connections. See: neuron.
 |**_normalization_**|The reorganization of data into the same scale.
 |**_null_**|Null value
-|**_NumPy_**|A linear algebra library in Python, it supports mutli-dimensional arrays and matrices.
+|**_NumPy_**|A linear algebra library in Python, it supports multi-dimensional arrays and matrices.
 |**_nvcc_**|nvcc compiler, do not capitalize.
 |**_offline inference_**|The process of generating predictions on batch of observations that occur on a recurring schedule.
 |**_one-hot encoding_**|The method of converting data into a form for Machine Learning algorithms.
@@ -116,7 +116,7 @@
 |**_parameters_**|Displayed in parentheses when written in a function, parameters act as variables that assign value.
 |**_PCIe Platform Atomics_**|PCI Express (PCIe) was developed as the next generation I/O system interconnect after PCI, designed to enable advanced performance and features in connected devices while remaining compatible with the PCI software environment. Today, atomic transactions are supported for synchronization without using an interrupt mechanism. In emerging applications where math co-processing, visualization and content processing are required, enhanced synchronization would enable higher performance.
 |**_perceptron_**|A mathematical model of a biological neuron.
-|**_PerfZero_**|Framework for TensorFlow. "...consolidating the docker image build, GPU driver installation, TensorFlow installation, benchmark library checkout, data download, system statistics collection, benchmark metrics collection, profiler data collection and so on into 2 to 3 commands. "
+|**_PerfZero_**|Framework for TensorFlow. 
 |**_precision_**|The quality of positive predictions made.
 |**_precision-recall curve_**|The performance metrics between precision and recall for binary classification algorithms.
 |**_prediction_**|The output of an algorithm on a set of data based on predictive analytics.
