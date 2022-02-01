@@ -20,7 +20,7 @@
 |**_code_**|See: source code|
 |**_completion_future_**|becomes ready, "Completes"
 |**_compute or computation_**|Traditionally: calculation  For technical use, compute can replace computation. Use of computer, mathematical calculations in relation to computers.|
-|**_Compute Units_**|Unit of measurement for processing resources for GPUs.|
+|**_compute units_**|Unit of measurement for processing resources for GPUs.|
 |**_command_**|An instruction to an application.|
 |**_conditionals_**|A sequence of program commands that evaluate to be either true or false. 
 |**_confusion matrix_**|Table used for the evaluation of algorithm performance. Compares actual and predicted values by machine learning model.|
@@ -107,13 +107,13 @@
 |**_OpenCL_**|Open Computing Language (OpenCL) is a framework for writing programs that execute across heterogeneous platforms consisting of central processing units (CPUs), graphics processing units (GPUs), digital signal processors (DSPs), field-programmable gate arrays (FPGAs) and other processors or hardware accelerators. OpenCL provides a standard interface for parallel computing using task- and data-based parallelism. The programming language that is used to write compute kernels is called OpenCL C and is based on C99,[16] but adapted to fit the device model in OpenCL. OpenCL consists of a set of headers and a shared object that is loaded at runtime. As of 2016 OpenCL runs on Graphics processing units, CPUs with SIMD instructions, FPGAs, Movidius Myriad 2, Adapteva epiphany and DSPs.
 |**_OpenMP_**|Programming model, supports offloading code and data onto GPU devices.
 |**_Open MPI_**|A Message Passing Interface (MPI) library project.
-|**_Open-source_**|Software for which the source code is publicly accessible.
+|**_open-source_**|Software for which the source code is publicly accessible.
 |**_optimizer_**|A program that utilizes linear programming to optimize processes.
 |**_outliers_**|Values that are abnormal.
 |**_overfitting_**|A model learns data to the extent that it negatively impact performance of the model on new data.
 |**_oversampling_**|Duplicate examples from minority class. Data analysis technique that adjusts the class distribution of a dataset.
 |**_Pandas_**|An open-source data analysis tool built on top of Python programing language.
-|**_Parameters_**|Displayed in parentheses when written in a function, parameters act as variables that assign value.
+|**_parameters_**|Displayed in parentheses when written in a function, parameters act as variables that assign value.
 |**_PCIe Platform Atomics_**|PCI Express (PCIe) was developed as the next generation I/O system interconnect after PCI, designed to enable advanced performance and features in connected devices while remaining compatible with the PCI software environment. Today, atomic transactions are supported for synchronization without using an interrupt mechanism. In emerging applications where math co-processing, visualization and content processing are required, enhanced synchronization would enable higher performance.
 |**_perceptron_**|A mathematical model of a biological neuron.
 |**_PerfZero_**|Framework for TensorFlow. "...consolidating the docker image build, GPU driver installation, TensorFlow installation, benchmark library checkout, data download, system statistics collection, benchmark metrics collection, profiler data collection and so on into 2 to 3 commands. "
@@ -124,7 +124,7 @@
 |**_pre-training model_**|A model created based on already created and trained models.
 |**_probabilistic regression model_**|Predictions made on a dependent variable based on information
 |**_PyTorch_**|An open-source machine learning library used for Python.
-|**_Queue_**|A Queue is a runtime-allocated resource that contains a packet buffer and is associated with a packet processor. The packet processor tracks which packets in the buffer have already been processed. When it has been informed by the application that a new packet has been enqueued, the packet processor is able to process it because the packet format is standard, and the packet contents are self-contained -- they include all the necessary information to run a command. A queue has an associated set of high-level operations defined in "HSA Runtime Specification" (API functions in host code) and "HSA Programmer Reference Manual Specification" (kernel code).
+|**_queue_**|A Queue is a runtime-allocated resource that contains a packet buffer and is associated with a packet processor. The packet processor tracks which packets in the buffer have already been processed. When it has been informed by the application that a new packet has been enqueued, the packet processor is able to process it because the packet format is standard, and the packet contents are self-contained -- they include all the necessary information to run a command. A queue has an associated set of high-level operations defined in "HSA Runtime Specification" (API functions in host code) and "HSA Programmer Reference Manual Specification" (kernel code).
 |**_rank (Tensor)_**|A unit of dimensionality, the number of dimensions of the tensor within the TensorFlow system.
 |**_RCCL_**|A stand-alone library of standard collective communication routines for GPUs.
 |**_recall_**|The true positives found. The capability for a model to find relevant cases in a dataset.
@@ -166,11 +166,11 @@
 |**_self-supervised learning_**|A machine learning technique where the model learns by using unlabeled data to predict and generate missing information.
 |**_self-training_**|See: semi-training
 |**_semi-supervised learning_**|An approach that trains using a small amount of label data and the model makes predictions of unlabeled data. A combination of supervised and unsupervised training.
-|**_Shader Engines_**|A program that tells the model how to render pixels.
+|**_shader engines_**|A program that tells the model how to render pixels.
 |**_shape (tensor)_**|The number of elements in dimensions.
-|**_Source code_**| Code written by developers for a computer program.
+|**_source code_**| Code written by developers for a computer program.
 |**_Sparse_**|Some problems are defined in terms of linear operations over arrays of data (e.g. vectors and matrices) the elements of which are mostly zeros (sparse arrays). When the fraction of zeros is significantly large, enough so that there are benefits to explicitly take these zeros into account when solving the problem, these problems are called Sparse Linear Algebra problems.
-|**_squared loss_**|A function that is used to indicate how much predicted output is off.
+|**_squared Loss_**|A function that is used to indicate how much predicted output is off.
 |**_staged training_**|A training method for a model that forms in stages.
 |**_supervised machine learning_**|Training model that utilizes input data and corresponding labels.
 |**_tensor processing unit_**|Google's custom application-specific integrated circuits that is used to accelerate machine learning workloads.
