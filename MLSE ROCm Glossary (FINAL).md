@@ -2,39 +2,6 @@
 
 # MLSE ROCm Software Glossary
 ---
-|Table of Contents  |
-| --- | 
-|**[Notes](#Notes-id)**|
-|**[A ](#A-id)**|
-|**[B ](#B-id)**|
-|**[C ](#C-id)**|
-|**[D ](#D-id)**|
-|**[E ](#E-id)**|
-|**[F ](#F-id)**|
-|**[G ](#G-id)**|
-|**[H ](#H-id)**|
-|**[I ](#I-id)**|
-|**[J ](#J-id)**|
-|**[K ](#K-id)**|
-|**[L ](#L-id)**|
-|**[M ](#M-id)**|
-|**[N ](#N-id)**|
-|**[O ](#O-id)**|
-|**[P ](#P-id)**|
-|**[Q ](#Q-id)**|
-|**[R ](#R-id)**|
-|**[S ](#S-id)**|
-|**[T ](#T-id)**|
-|**[U ](#U-id)**|
-|**[V ](#V-id)**|
-|**[W ](#W-id)**|
-|**[X ](#X-id)**|
-|**[Y ](#Y-id)**|
-|**[Z ](#Z-id)**|
-|**[Reference Sources](#Referencesources-id)**|
-
-
----
 # [Notes](#Notes-ID)
 
 
